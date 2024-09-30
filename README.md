@@ -1,4 +1,4 @@
-#   et🚀 Let's build with OnchainKit!
+# 🚀 Let's build with OnchainKit!
 
 ## 📖 Table of Contents
 
